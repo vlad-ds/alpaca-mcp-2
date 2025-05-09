@@ -1,0 +1,10 @@
+[project]
+name = "alpaca-mcp-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "alpaca-py==0.40.0",
+    "mcp[cli]>=1.7.1",
+]
