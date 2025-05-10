@@ -654,3 +654,10 @@ def place_limit_order(
     except Exception as e:
         # Return error information if the request fails
         return {"success": False, "message": str(e)}
+
+
+def main():
+    mcp.run()
+
+if __name__ == "__main__":
+    main()

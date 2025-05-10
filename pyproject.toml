@@ -8,3 +8,6 @@ dependencies = [
     "alpaca-py==0.40.0",
     "mcp[cli]>=1.7.1",
 ]
+
+[project.scripts]
+alpaca-mcp = "alpaca-mcp-2.server:main"

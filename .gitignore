@@ -12,3 +12,4 @@ wheels/
 .env
 .python-version
 alpaca/
+**/.claude/settings.local.json
