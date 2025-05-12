@@ -1,6 +1,6 @@
 # Alpaca MCP
 
-A Model-Claude-Pipeline (MCP) wrapper over the Alpaca API, enabling Claude to interact with Alpaca's trading and market data APIs through simple tool calls.
+MCP wrapper over the Alpaca API, enabling Claude to interact with Alpaca's trading and market data APIs through simple tool calls.
 
 ## Features
 
